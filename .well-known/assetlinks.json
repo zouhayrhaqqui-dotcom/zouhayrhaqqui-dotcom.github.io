@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zouhayrhaqqui_dotcom.murajaa",
+        "sha256_cert_fingerprints": ["DC:59:01:74:5E:01:C9:C9:64:12:EC:48:A1:BF:CC:82:69:40:9A:98:E1:74:22:DE:BF:48:F2:EE:2F:BD:63:7A"]
+      }
+    }]
